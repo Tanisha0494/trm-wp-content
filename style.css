@@ -973,7 +973,7 @@ textarea {
 
 
 /*---------------------
-== Start TRM Styles
+== Start TRM Theme Styles
 ---------------------*/
 
 /* == Mobile / Global Styles */
@@ -1096,6 +1096,7 @@ button.menu-toggle:hover,.toggled button.menu-toggle {
 	border-bottom: 5px solid #000;
 }
 
+
 /* -----------------------
 == HOMEPAGE STYLES
 -------------------------- */
@@ -1107,6 +1108,7 @@ button.menu-toggle:hover,.toggled button.menu-toggle {
 .hp.projects {
     margin: 40px 0 20px;
 }
+
 
 /* -----------------------
 == PROJECTS OVERVIEW STYLES
@@ -1224,6 +1226,7 @@ a.view-btn:hover {
     color: #fff;
 }
 
+
 /* -----------------------
 == ASK A QUESTION PAGE
 -------------------------- */
@@ -1241,6 +1244,7 @@ button.forminator-button.forminator-button-submit:hover {
     background: #fff;
     border: 4px solid #2ab69d!important;
 }
+
 
 /* -----------------------
 == FOOTER STYLES
@@ -1295,6 +1299,7 @@ ul#menu-footer-menu-1 li.current-proj-menu-item > a,
 a.active {
     border-bottom: 5px solid #fcc43b!important;
 }
+
 
 /* -----------------------
 == MEDIA QUERIES
